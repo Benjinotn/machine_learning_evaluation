@@ -1,5 +1,6 @@
+jupytext
+matplotlib
 pandas
 scikit-learn
-matplotlib
 seaborn
-jupytext
+ydata-profiling
